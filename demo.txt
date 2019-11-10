@@ -1,1 +1,1 @@
-Testing git
+Tested git with demo
